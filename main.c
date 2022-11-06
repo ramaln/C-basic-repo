@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    int j=50;
+    int j=10;
     printf("%i",j);
 }
